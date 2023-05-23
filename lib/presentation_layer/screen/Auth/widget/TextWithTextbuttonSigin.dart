@@ -20,7 +20,7 @@ class TextWithTextbuttonSigin extends StatelessWidget {
         children: [
           Text(
             "25".tr,
-            style: textstyel.headline5!.copyWith(
+            style: textstyel.headlineSmall!.copyWith(
               color: MangeColor.blackcolor,
             ),
           ),
@@ -30,7 +30,7 @@ class TextWithTextbuttonSigin extends StatelessWidget {
             }),
             child: Text(
               "t".tr,
-              style: textstyel.headline6!
+              style: textstyel.titleLarge!
                   .copyWith(color: MangeColor.authColorButton),
             ),
           ),

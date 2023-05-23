@@ -1,5 +1,7 @@
-// ignore_for_file: file_names/// static const String linkserver = 'https://tahakhaled.rf.gd/ecommerce';
+//static const String linkserver = 'https://tahakhaled.rf.gd/ecommerce';
 //localhost/ecommerce/auth/login.php
+// ignore_for_file: file_names
+
 class LinksApi {
   static const String linkserver =
       'https://tahakhalid123protflio.000webhostapp.com'; //done

@@ -54,7 +54,7 @@ class Sigin extends StatelessWidget {
                           },
                           child: Text(
                             "14".tr,
-                            style: textstyel.headline4!.copyWith(
+                            style: textstyel.headlineMedium!.copyWith(
                               color: const Color.fromARGB(92, 10, 15, 121),
                             ),
                           ),

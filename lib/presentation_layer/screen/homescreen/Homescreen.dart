@@ -1,8 +1,6 @@
 // ignore_for_file: file_names, must_be_immutable
 import 'package:ecomm/data_layer/database/connectSqlflite.dart';
-import 'package:ecomm/data_layer/database/connectdatabase.dart';
 import 'package:ecomm/domain_layer/controller/controllermain/homeconteoller/homecontroller.dart';
-import 'package:ecomm/domain_layer/models/Favoritmodel.dart';
 import 'package:ecomm/presentation_layer/Infowidget/ui_components/info_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

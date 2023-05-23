@@ -27,15 +27,15 @@ class Thretext extends StatelessWidget {
         children: [
           Text(
             '$text1',
-            style: textstyel.headline3,
+            style: textstyel.displaySmall,
           ),
           Text(
             '$text2',
-            style: textstyel.headline4,
+            style: textstyel.headlineMedium,
           ),
           Text(
             '$text3',
-            style: textstyel.headline6,
+            style: textstyel.titleLarge,
             textAlign: TextAlign.center,
           )
         ],

@@ -23,7 +23,7 @@ class ButtonWithtext extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text("choice the langueg",
-            style: Theme.of(context).textTheme.headline3),
+            style: Theme.of(context).textTheme.displaySmall),
         const SizedBox(height: 20),
         Buttenwidget(
           color: MangeColor.buttonColor2,

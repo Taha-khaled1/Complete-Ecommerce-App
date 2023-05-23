@@ -27,7 +27,7 @@ class Sucsspage extends StatelessWidget {
               children: [
                 Text(
                   '37'.tr,
-                  style: textstyel.headline4,
+                  style: textstyel.headlineMedium,
                 ),
                 const CircleAvatar(
                   backgroundColor: Color(0xff80ed99),
@@ -40,7 +40,7 @@ class Sucsspage extends StatelessWidget {
                 ),
                 Text(
                   '28'.tr,
-                  style: textstyel.headline5,
+                  style: textstyel.headlineSmall,
                 ),
                 Buttenwidget(
                   color: const Color(0xff80ed99),

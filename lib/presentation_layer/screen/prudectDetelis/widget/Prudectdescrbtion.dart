@@ -26,7 +26,7 @@ class Prudectdescrbtion extends StatelessWidget {
             ),
             Text(
               infoitem[0].itemsName.toString(),
-              style: textTheme.headline4,
+              style: textTheme.headlineMedium,
             ),
             Align(
               alignment: Alignment.centerRight,
@@ -64,7 +64,7 @@ class Prudectdescrbtion extends StatelessWidget {
               ),
               child: Text(
                 infoitem[0].itemsDescrbtion.toString(),
-                style: textTheme.subtitle1,
+                style: textTheme.titleMedium,
                 maxLines: 3,
               ),
             ),

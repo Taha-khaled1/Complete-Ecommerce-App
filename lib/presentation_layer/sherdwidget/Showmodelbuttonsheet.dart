@@ -28,7 +28,7 @@ Future<void> showmodelbuttntracklive(
                     ),
                     Text(
                       'Thank you For \nyour order',
-                      style: textTheme.headline4!.copyWith(
+                      style: textTheme.headlineMedium!.copyWith(
                         fontWeight: FontWeight.bold,
                         height: 1.3,
                         color: MangeColor.kPrimaryColor,
@@ -41,7 +41,7 @@ Future<void> showmodelbuttntracklive(
                     Text(
                       'You can tracking the delivery in \nthe order down',
                       textAlign: TextAlign.center,
-                      style: textTheme.headline6!.copyWith(height: 1.3),
+                      style: textTheme.titleLarge!.copyWith(height: 1.3),
                     ),
                     const SizedBox(
                       height: 12,

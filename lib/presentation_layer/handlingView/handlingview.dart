@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import '../../application_layer/ShardFunction/statusrequst.dart';
 import '../resource/AppImageAsset.dart';
-import 'widgets/404Error.dart';
-import 'widgets/NoConnection.dart';
-import 'widgets/SomethingWrong.dart';
 
 class HandlingDataView extends StatelessWidget {
   final StatusRequest statusRequest;

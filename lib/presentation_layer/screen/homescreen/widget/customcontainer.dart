@@ -28,7 +28,7 @@ class Customcontainer extends StatelessWidget {
           child: RichText(
             text: TextSpan(
               text: 'A Summer Surpise\n ',
-              style: textstyel.headline5!.copyWith(color: Colors.white),
+              style: textstyel.headlineSmall!.copyWith(color: Colors.white),
               children: const <TextSpan>[
                 TextSpan(
                   text: 'Cashback 20%',

@@ -25,7 +25,7 @@ class Userprofile extends StatelessWidget {
         ),
         title: Text(
           'Profile',
-          style: Theme.of(context).textTheme.headline5,
+          style: Theme.of(context).textTheme.headlineSmall,
         ),
       ),
       body: SizedBox(

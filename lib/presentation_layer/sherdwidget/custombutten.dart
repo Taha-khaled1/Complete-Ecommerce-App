@@ -34,7 +34,7 @@ class Buttenwidget extends StatelessWidget {
         onPressed: press,
         child: Text(
           text.toString(),
-          style: textstyel.headline5!.copyWith(color: Colors.grey[100]),
+          style: textstyel.headlineSmall!.copyWith(color: Colors.grey[100]),
         ),
       ),
     );

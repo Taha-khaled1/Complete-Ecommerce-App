@@ -26,7 +26,7 @@ class SectionOnboardenter extends StatelessWidget {
                 width: width1,
                 child: Text(
                   onBoardingList[index].title.toString(),
-                  style: textstyel.headline4!,
+                  style: textstyel.headlineMedium!,
                   textAlign: TextAlign.center,
                 ),
               ),
@@ -37,7 +37,7 @@ class SectionOnboardenter extends StatelessWidget {
                 width: width2,
                 child: Text(
                   onBoardingList[index].body.toString(),
-                  style: textstyel.headline6!,
+                  style: textstyel.titleLarge!,
                   textAlign: TextAlign.center,
                 ),
               ),

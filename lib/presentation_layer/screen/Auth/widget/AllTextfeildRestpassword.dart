@@ -27,7 +27,7 @@ class AllTextfeildRestpassword extends StatelessWidget {
               height: MediaQuery.of(context).size.height * 0.10,
               child: Text(
                 '14'.tr,
-                style: textstyel.headline4!.copyWith(
+                style: textstyel.headlineMedium!.copyWith(
                   color: const Color.fromRGBO(143, 148, 251, 1),
                 ),
               ),

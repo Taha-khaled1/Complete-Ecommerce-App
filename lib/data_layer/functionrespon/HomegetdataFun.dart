@@ -9,6 +9,5 @@ homegetalldata() async {
     LinksApi.alldatahome,
     {},
   );
-  print(respons);
   return respons;
 }

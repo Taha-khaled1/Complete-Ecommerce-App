@@ -22,7 +22,7 @@ class SectionTiel extends StatelessWidget {
         children: [
           Text(
             titel,
-            style: textstyel.headline6,
+            style: textstyel.titleLarge,
           ),
           Text(
             subtitel,
